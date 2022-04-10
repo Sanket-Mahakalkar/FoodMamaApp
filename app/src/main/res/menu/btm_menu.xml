@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/btm_home"
+    android:icon="@drawable/ic_home"
+    android:id="@+id/homeFragment"/>
+
+    <item android:title="@string/btm_favourites"
+        android:icon="@drawable/ic_favourities"
+        android:id="@+id/favouriteFragment"/>
+
+    <item android:title="@string/btm_categories"
+        android:icon="@drawable/ic_categories"
+        android:id="@+id/categoryFragment"/>
+</menu>
