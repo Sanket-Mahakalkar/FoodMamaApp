@@ -10,3 +10,4 @@ FoodMama is an app that helps you in cooking the food by giving you full informa
 6. Coroutines : To perform database operation in the background.
 7. ButterKnife: This library is used for view binding.
 8. Glide : Catch images and load them in imageView.
+9. Language used is kotlin.
